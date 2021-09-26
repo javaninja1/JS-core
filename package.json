@@ -1,0 +1,8 @@
+{
+    "name": "my-node-js",
+    "version": "1.0.0",
+    "type":  "commonjs",
+    "dependencies": {
+        "underscore": "^1.13.1"
+    }
+}
